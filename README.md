@@ -25,14 +25,7 @@ This report describes the genome sequence results for the "agu79". The following
 - `R` (4.2.3)
   - `ggplot2` (3.4.2)
   - `openxlsx` (4.2.5.2)
-  - `patchwork` (1.1.2)
-  - `ggsignif` (0.6.4)
   - `dplyr` (1.1.2)
-  - `ggbreak` (0.1.1)
-  - `stringr` (1.5.0)
-  - `UpSetR` (1.4.0)
-  - `reshape2` (1.4.4)
-  - `sets` (1.0-24)
 
 ## Download DNA sequence & GTF
 
