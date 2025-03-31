@@ -1,0 +1,5 @@
+bam
+sam
+trimed
+vcf
+vcf/fin_vcf
